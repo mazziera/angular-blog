@@ -11,6 +11,8 @@
     align-items: center;
 }
 .small-card-container .imagem img{
+    width: 200px;
+    height: 100px;
     margin-right: 20px;
 }
 

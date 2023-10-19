@@ -8,7 +8,10 @@
     justify-content: flex-start;
 }
 
-
+.big-card-container .imagem img{
+    width: 400px;
+    height: 200px;
+}
 .big-card-container .titulo h1{
     font-size: 20px;
     margin-top: 10px;
