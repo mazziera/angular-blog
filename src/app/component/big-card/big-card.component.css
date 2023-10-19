@@ -1,0 +1,21 @@
+.big-card-container{
+    width: 400px;
+    height: 600px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.big-card-container .titulo h1{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.big-card-container .descricao p{
+    color: grey;
+    margin-top: 10px;
+}
+

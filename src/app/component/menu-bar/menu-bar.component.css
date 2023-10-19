@@ -1,0 +1,10 @@
+.menu-container{
+    padding: 15px;
+}
+
+.menu-container ul{
+    list-style: none;
+    display: flex;
+    
+    justify-content: space-evenly;
+}

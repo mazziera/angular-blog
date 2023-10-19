@@ -1,0 +1,6 @@
+.articles-container{
+    padding: 0px 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
