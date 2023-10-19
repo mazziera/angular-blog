@@ -4,12 +4,15 @@
     </div>
 
     <div class="titulo">
-        <a href="#" target="_blank">
+        <a [routerLink]="['content', id]">
             <h1>{{tituloCard}}</h1>
         </a>
     </div>
 
     <div class="descricao">
-        <p>{{descricao}}</p>
+        <a [routerLink]="['content', id]" >
+            <p>{{descricao}}</p>
+        </a>
+        
     </div>
 </div>
